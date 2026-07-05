@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://djordje050182.github.io/plateau-design/sitemap.xml
